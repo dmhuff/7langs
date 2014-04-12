@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# Thirs exercise in the Do section of Ruby day two.
+# Third exercise in the Do section of Ruby day two.
 
 #
 # Implement a simple grep with Ruby.
