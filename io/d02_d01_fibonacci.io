@@ -1,6 +1,6 @@
 #!/usr/bin/env io
 
-# Do #1 of Io day 2.
+# Do #1 of Io day 2; a Fibonacci sequence implementation.
 
 Fibonacci := Object clone
 

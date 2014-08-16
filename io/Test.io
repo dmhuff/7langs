@@ -12,7 +12,7 @@ Test isEqual := method(left, right,
   if (left == right) then (
     success
   ) else (
-    fail("Failure! #{left} not equal to #{right}" interpolate)
+    fail("Failure! [#{left}:#{left type}] not equal to [#{right}:#{right type}]" interpolate)
   )
 )
 
